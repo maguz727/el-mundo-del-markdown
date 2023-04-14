@@ -37,12 +37,12 @@ A continuación se muestran las clases de la semana 1 y los temas que ya he term
 
 **Ejercicio:**
 
-Crear un Github Profile README
+* [ ✔ ] Crear un Github Profile README
 
 ### Git: Control de versiones
 -----------------------------
 
-* [  ] Cómo crear un repositorio local y hacer tu primer commit
+* [ ✔ ] Cómo crear un repositorio local y hacer tu primer commit
 
 * [  ] Las ramas y el uso de merge en git
 
