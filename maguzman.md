@@ -42,13 +42,13 @@ A continuación se muestran las clases de la semana 1 y los temas que ya he term
 ### Git: Control de versiones
 -----------------------------
 
-* [ ✔ ] Cómo crear un repositorio local y hacer tu primer commit
+* [  ] Cómo crear un repositorio local y hacer tu primer commit
 
-* [ ✔ ] Las ramas y el uso de merge en git
+* [  ] Las ramas y el uso de merge en git
 
-* [ ✔ ] Entendiendo cómo funciona git rebase
+* [  ] Entendiendo cómo funciona git rebase
 
-* [ ✔ ] Git y los repositorios remotos
+* [  ] Git y los repositorios remotos
 
 ### Introducción a HTML
 -----------------------
